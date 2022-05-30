@@ -1,5 +1,5 @@
 package ru.academy.kata.pp_3_1_1_springboot.dao;
-
+//Is it working?
 import org.springframework.stereotype.Repository;
 import ru.academy.kata.pp_3_1_1_springboot.model.User;
 import javax.persistence.EntityManager;
